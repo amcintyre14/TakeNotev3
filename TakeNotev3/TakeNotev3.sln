@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TakeNotev3", "TakeNotev3\TakeNotev3.csproj", "{5C450795-A74D-427F-B53B-76E23CB7C2F1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TakeNoteSetup", "Setup\Setup.vdproj", "{43D7E125-5FFC-481E-BA8A-A2DF71B26D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C450795-A74D-427F-B53B-76E23CB7C2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C450795-A74D-427F-B53B-76E23CB7C2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C450795-A74D-427F-B53B-76E23CB7C2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C450795-A74D-427F-B53B-76E23CB7C2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D7E125-5FFC-481E-BA8A-A2DF71B26D4E}.Debug|Any CPU.ActiveCfg = Release
+		{43D7E125-5FFC-481E-BA8A-A2DF71B26D4E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACC6887-25B7-4732-ADC8-E5DB5FBDEB47}
+	EndGlobalSection
+EndGlobal
